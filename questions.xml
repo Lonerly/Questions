@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<class>
+   <question rollno="0">
+      	<text>I ___________ about a yellow unicorn last night.</text>
+     	<A>slept</A>
+     	<B>dreamed</B>
+      	<C>sleep</C>
+	<D>dreamt</D>
+	<Good>2</Good>
+   </question>
+   <question rollno="1">
+     	<text>Anna ___________ to class yesterday because she was at the hospital.</text>
+     	<A>don't goes</A>
+     	<B>didn't take</B>
+      	<C>didn't come</C>
+	<D>don't arrive</D>
+	<Good>3</Good>
+   </question>
+   <question rollno="2">
+     	<text>It was snowing last night. It ___________ so cold!</text>
+     	<A>felt</A>
+     	<B>been</B>
+      	<C>snowing</C>
+	<D>ice</D>
+	<Good>1</Good>
+   </question>
+   <question rollno="3">
+     	<text>Lucy ___________ her mother's watch, so she bought a new one.</text>
+     	<A>forgot</A>
+     	<B>crashed</B>
+      	<C>broke</C>
+	<D>borrow</D>
+	<Good>3</Good>
+   </question>
+   <question rollno="4">
+     	<text>We ___________ at the library for three hours yesterday.</text>
+     	<A>studied</A>
+     	<B>reviwed</B>
+      	<C>learnt</C>
+	<D>been</D>
+	<Good>1</Good>
+   </question>
+   <question rollno="5">
+     	<text> I ___________ an e-mail to the company but they never answered.</text>
+     	<A>read</A>
+     	<B>publish</B>
+      	<C>published</C>
+	<D>sent</D>
+	<Good>4</Good>
+   </question>
+   <question rollno="6">
+     	<text> The two cousins ___________ at the airport for the first time.</text>
+     	<A>met</A>
+     	<B>saw</B>
+      	<C>meet</C>
+	<D>welcomed</D>
+	<Good>1</Good>
+   </question>
+</class>
